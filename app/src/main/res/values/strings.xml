@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Takisobie kalkulator spalania</string>
+    <string name="btn_name">Kalkulator spalania</string>
+    <string name="btn_get">Historia</string>
+
+
+    <string name="lbl_phone">Numer telefonu:</string>
+    <string name="lbl_email">E-mail:</string>
+    <string name="lbl_number">Numer:</string>
+
+    <string name="lbl_z_litry">Zatankowane litry:</string>
+    <string name="lbl_p_km">Przejechane km:</string>
+    <string name="lbl_c">Cena:</string>
+    <string name="lbl_cl">Cena/L:</string>
+    <string name="btn_save">Zapisz</string>
+    <string name="btn_oblicz">Oblicz</string>
+
+
+
+    <string-array name="spinnerHistory">
+        <item>Ten tydzień</item>
+        <item>Ten miesiąc</item>
+    </string-array>
+
+
+</resources>
